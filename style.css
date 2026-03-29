@@ -1,0 +1,31 @@
+/* Apply style to whole page */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+/* Heading style */
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+/* Paragraph style */
+p {
+    color: #333;
+    font-size: 18px;
+}
+
+/* Class selector */
+.box {
+    background-color: white;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+}
+
+/* ID selector */
+#special {
+    color: red;
+    font-weight: bold;
+}
